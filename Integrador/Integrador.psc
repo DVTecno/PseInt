@@ -1,4 +1,6 @@
 Algoritmo Integrador_final
+	////CON ESTE SE HACE EL EJERCICIO DEL ENUNCIADO YA QUE EL INTEGRADOR ES DISTINTO POR UN ERROR PROPIO DEL SISTEMA
+
 Definir calculadora, i,j,k, contador Como Entero
 Definir cadena1, cadena2 Como Caracter
 Definir diagonal3D1, diagonal3D2 Como Entero
