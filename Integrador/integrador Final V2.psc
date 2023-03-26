@@ -1,5 +1,5 @@
 Algoritmo Integrador_Final
-	////CON ESTE CODIGO SE REALIZA EL EJERCICIO
+	////CON ESTE CODIGO SE REALIZA EL EJERCICIO INTEGRADOR
 	//Definición de variables
 	Definir calculadora Como Entero
 	Definir cadena1, cadena2 Como Caracter
